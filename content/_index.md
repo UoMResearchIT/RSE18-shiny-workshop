@@ -2,6 +2,15 @@
 title: "Introduction to Shiny"
 ---
 
+{{% notice info %}}
+
+This site is no longer updated, and elements of it may no longer work. The workshop was converted to a half-day workshop, which is offered by Research IT  at the University of Manchester.  The workshop materials can be found at https://uomresearchit.github.io/r-shiny-course/  
+
+Details of Research IT's training courses can be found at [here](https://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/)
+
+
+{{% /notice %}}
+
 This is the "Data Visualization Using Shiny" workshop for the 2018 [Research Software Engineers' Conference](http://rse.ac.uk/conf2018/)
 
 
